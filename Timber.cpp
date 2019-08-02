@@ -606,7 +606,7 @@ int main()
 					
 					//Position of log after dead
 					logActive = false;
-					spriteLog.setPosition(855, 610);
+					spriteLog.setPosition(855, 620);
 
 					//play Death sound
 					death.play();
@@ -715,6 +715,9 @@ int main()
 			//Winning Condition
 			if (score == x)
 			{
+				//Position of log after dead
+				logActive = false;
+				spriteLog.setPosition(855, 620);
 				paused = true;
 				win = true;
 				enter.pause();

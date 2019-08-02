@@ -1,2 +1,14 @@
-﻿  LINK : D:\Game Development\C++ Games\Timber Bash\Debug\Timber Bash.exe not found or not built by the last incremental link; performing full link
+﻿  Timber.cpp
+D:\Game Development\C++ Games\Timber Bash\Timber Bash\Timber.cpp(352,44): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+D:\Game Development\C++ Games\Timber Bash\Timber Bash\Timber.cpp(378,44): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+D:\Game Development\C++ Games\Timber Bash\Timber Bash\Timber.cpp(436,33): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\Game Development\C++ Games\Timber Bash\Timber Bash\Timber.cpp(440,19): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Game Development\C++ Games\Timber Bash\Timber Bash\Timber.cpp(466,35): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\Game Development\C++ Games\Timber Bash\Timber Bash\Timber.cpp(470,19): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Game Development\C++ Games\Timber Bash\Timber Bash\Timber.cpp(494,35): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\Game Development\C++ Games\Timber Bash\Timber Bash\Timber.cpp(498,19): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Game Development\C++ Games\Timber Bash\Timber Bash\Timber.cpp(522,35): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\Game Development\C++ Games\Timber Bash\Timber Bash\Timber.cpp(526,19): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Game Development\C++ Games\Timber Bash\Timber Bash\Timber.cpp(554,19): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Game Development\C++ Games\Timber Bash\Timber Bash\Timber.cpp(741,19): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Timber Bash.vcxproj -> D:\Game Development\C++ Games\Timber Bash\Debug\Timber Bash.exe
