@@ -4,7 +4,7 @@
  
  **Used:**     
  1.C++.    
- 2.Simmple & Fast Multimedia Library (SFML).    
+ 2.Simple & Fast Multimedia Library (SFML).    
  
 **Features:**    
 
