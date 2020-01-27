@@ -2,6 +2,9 @@
  Timber Bash is a SFML - C++ game which is actually a clone of Android Game Timber Man.
  This Game is Made **Without any Game Engine**.
  
+ 
+ Date: 21st september,2019 - 30th september 2019
+ 
  **Used:**     
  1.C++.    
  2.Simple & Fast Multimedia Library (SFML).    
